@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background: white;
+  padding-top: 30px;
+}
+
+.viewer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+img {
+  width: 500px;
+  height: auto;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+}
